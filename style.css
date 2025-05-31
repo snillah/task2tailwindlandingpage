@@ -1,0 +1,9 @@
+:root{
+    --font-family:font-poppins;
+    --clr-b50:#083F9B;
+    --clr-p50:#7F56D9;
+}
+
+.bg-clr-primary{
+    background:linear-gradient(to left,var(--clr-p50),var(--clr-b50));;
+}
